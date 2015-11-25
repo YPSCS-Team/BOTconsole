@@ -1,0 +1,12 @@
+D:\EDA_Project\EC2013\BOTConsole\bin\Debug\BOTConsole.exe.config
+D:\EDA_Project\EC2013\BOTConsole\bin\Debug\BOTConsole.exe
+D:\EDA_Project\EC2013\BOTConsole\bin\Debug\BOTConsole.pdb
+D:\EDA_Project\EC2013\BOTConsole\obj\Debug\BOTConsole.exe
+D:\EDA_Project\EC2013\BOTConsole\obj\Debug\BOTConsole.pdb
+D:\EDA_Project\EC2013\BOTConsole\obj\Debug\BOTConsole.csprojResolveAssemblyReference.cache
+D:\My_Project\BOT\BOTConsole\bin\Debug\BOTConsole.exe.config
+D:\My_Project\BOT\BOTConsole\obj\Debug\BOTConsole.exe
+D:\My_Project\BOT\BOTConsole\obj\Debug\BOTConsole.pdb
+D:\My_Project\BOT\BOTConsole\bin\Debug\BOTConsole.exe
+D:\My_Project\BOT\BOTConsole\bin\Debug\BOTConsole.pdb
+D:\My_Project\BOT\BOTConsole\obj\Debug\BOTConsole.csprojResolveAssemblyReference.cache
